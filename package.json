@@ -30,11 +30,12 @@
     "apollo-server-express": "^2.25.2",
     "graphql": "^15.5.1",
     "graphql-tools": "^8.1.0",
-    "mongodb": "^4.1.0",
+    "mongodb": "^3.5.7",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
-    "typeorm": "^0.2.37"
+    "typeorm": "^0.2.37",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
